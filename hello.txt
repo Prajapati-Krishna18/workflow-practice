@@ -1,0 +1,3 @@
+Hello Duniya.
+I am Krishna Prajapati.
+I am practicing today Git & Github.
